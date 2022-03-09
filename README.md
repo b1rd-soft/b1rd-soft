@@ -21,12 +21,19 @@ This is place where i share something interestig and break something 🤣
     <a href="https://www.linkedin.com/in/b1rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="B1rd-dev" height="30" width="50" /></a>
   <a href="https://www.instagram.com/b1rd_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="B1rd-dev" height="30" width="50" /></a>
 </p>
-
-
+<br>
+<details>
+  <summary><b>✨About me</b></summary>
+    <br/>
+    <p align="left">
+    Hello, I'm Ukrainian developer.<br>
+    I create different high-level apps and solutions.<br>
+    </p>
+</details>
 <details>
   <summary><b>🛠️Instruments which i use</b></summary>
-  <br>
-<p><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <br/>
+<p align="left"><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
 <img align="left" alt="cpp" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png">
 <img align="left" alt="cpp" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/qt/qt.png">
 <img align="left" alt="arduino" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
@@ -52,16 +59,10 @@ This is place where i share something interestig and break something 🤣
 <img align="left" alt="atom" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png">
 <img align="left" alt="visual-studio-code" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="aws" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></p>
+ 
 </details>
 
-<details>
-  <summary><b>✨About me</b></summary>
-    <br>
-    <p align="left">
-    Hello, I'm Ukrainian developer.<br>
-    I create different high-level apps and solutions.<br>
-    </p>
-</details>
+
 
 
 <!--
