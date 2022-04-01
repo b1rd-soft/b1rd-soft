@@ -7,7 +7,7 @@ This is place where i share something interestig and break something 🤣
    
 - 🌱 &#160;&#160; I’m currently learning Assembler, RaspberryPI (hardware / software) and AI
 - 💬 &#160;&#160; Ask me about anything associated with Python/C/C++ or RaspberryPI/Arduino
-- 📫 &#160;&#160; How to reach me: [Twitter](https://twitter.com/B1rdDev), [Instagram](https://www.instagram.com/b1rd_dev), [Instagram](https://www.linkedin.com/in/b1rd)
+- 📫 &#160;&#160; How to reach me: [Twitter](https://twitter.com/B1rdDev), [Instagram](https://www.instagram.com/b1rd_dev), [LinkedIn](https://www.linkedin.com/in/b1rd)
 - 📚 &#160;&#160; My interests:
     - Kernel development
     - Software development
