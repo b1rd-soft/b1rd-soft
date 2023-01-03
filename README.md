@@ -2,18 +2,22 @@
 
 This is place where I'm experimenting without fear 😅
 
- 
-- 🔭 &#160;&#160; I’m currently working on ***Small Rust CLI tools*** and aim to develop ***GUI Framework based on Rust***
-- 🌱 &#160;&#160; I’m currently learning Assembler and Rust
-- 💬 &#160;&#160; Let's chat about anything associated with Python/C/Rust or RaspberryPI/Arduino
-- 📚 &#160;&#160; My interests:
-    - OS Kernel development
-    - Software development
-    - Hardware
-    - Cybersecurity
-    - GUI Frameworks development
-    - Smart home
-    - AI
+
+- I’m currently working on ***Small Rust CLI tools*** and aim to develop ***GUI Framework based on Rust***
+- Currently learning Assembler and Rust
+- Let's chat about anything associated with Python/C/Rust or RaspberryPI/Arduino
+
+#### My interests:
+
+![OS Kernel development](https://img.shields.io/badge/OS%20Kernel%20development-032C3D?style=for-the-badge)
+![Software development](https://img.shields.io/badge/Software%20development-29529B?style=for-the-badge)
+![GUI Frameworks development](https://img.shields.io/badge/GUI%20Frameworks%20development-E18E04?style=for-the-badge)
+
+![Hardware](https://img.shields.io/badge/Hardware-95B913?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1EC3B4?style=for-the-badge)
+
+![Smart home](https://img.shields.io/badge/Smart%20home-2D2F92?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-A196FC?style=for-the-badge)
 
 
 #### Connect with me
