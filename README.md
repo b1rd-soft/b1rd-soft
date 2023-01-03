@@ -22,7 +22,7 @@ This is place where I'm experimenting without fear 😅
 
 #### Connect with me
 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.zhaivoronok@protonmail.me)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.zhaivoronok@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=1CA7D8)](https://twitter.com/d_zhaivoronok)
 [![Linked In](https://img.shields.io/badge/LinkedIn-1681B9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrozhaivoronok)
 
