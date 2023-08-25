@@ -25,7 +25,7 @@ This is place where I'm experimenting without fear 😅
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dmytro.zhaivoronok@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=1CA7D8)](https://twitter.com/d_zhaivoronok)
 [![Linked In](https://img.shields.io/badge/LinkedIn-1681B9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytrozhaivoronok)
-[![Discord](https://img.shields.io/badge/Discord-5865F1?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Bird#6266)
+[![Discord](https://img.shields.io/badge/Discord-5865F1?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/548519822137360405)
 
 
 #### My stack
