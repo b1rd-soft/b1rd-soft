@@ -2,10 +2,9 @@
 
 This is place where I'm experimenting without fear 😅
 
-
-- I’m currently working on ***Small Rust CLI tools*** and aim to develop ***GUI Framework based on Rust***
+- I’m currently working on ***cool cybersecurity project*** hope you will see it soon
 - Currently learning Assembler and Rust
-- Let's chat about anything associated with Python/C/Rust or RaspberryPI/Arduino
+- Let's chat about anything associated with Rust | Embedded | Cybersecurity
 
 #### My interests:
 
